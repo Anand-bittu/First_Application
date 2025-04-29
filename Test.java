@@ -1,6 +1,7 @@
 class Test { 
 public static void main(String [] args)
  { 
+  System.out.println("main");
  Test p = new Test(); 
    p.start(); 
   void start() 
