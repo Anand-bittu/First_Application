@@ -17,6 +17,7 @@ public class ExceptionContoller {
 
 	   @GetMapping("/greating")
 	   public ResponseEntity<String> greatingMsg(){
+		   System.out.println("Hello");
 		   return new ResponseEntity<String>("GoodEvening",HttpStatus.OK);
 	   }
 	   @GetMapping("/welcome")
