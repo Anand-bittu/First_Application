@@ -10,7 +10,12 @@ class Hello{
 
        System.out.println("Aand"); 
 
-       
+        System.out.println("Vani Kumari"); 
+
+         System.out.println("Rani kumari"); 
+
+
+              
       
 
     }
