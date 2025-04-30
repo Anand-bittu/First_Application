@@ -20,6 +20,8 @@ class Jtc47{
 public static void main(String[] args){
 	//Hello h2=new Hello();
 	System.out.println(Hello.c);
+	System.out.println("Hello this is Aanand changed now");
+	
 	
 }
 }
