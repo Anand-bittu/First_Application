@@ -10,32 +10,12 @@ class Hello{
 
        System.out.println("Aand"); 
 
-<<<<<<< Updated upstream
         System.out.println("Vani Kumari"); 
 
          System.out.println("Rani kumari"); 
 
 
               
-=======
-
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       System.out.println("Aand"); 
-       
-    
-       
->>>>>>> Stashed changes
       
 
     }
